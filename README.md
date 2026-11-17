@@ -3,7 +3,7 @@
 
 A lightweight, self-service API Gateway that protects existing APIs through distributed rate limiting, authentication, request logging, and traffic analytics — without requiring modifications to the target API.
 
-**Live Website:** https://api-gateway-yp6s.onrender.com/
+
 
 ---
 
